@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 wcwidth = "0.2.13"
+prompt_toolkit = "^3.0.47"
 
 [tool.poetry.scripts]
 helper = "helper_bot.main:main"
